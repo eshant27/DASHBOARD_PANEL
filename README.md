@@ -16,3 +16,7 @@ This is a free and responsive admin dashboard panel , designed to provide a clea
 * **Intuitive User Interface:** A clean and easy-to-navigate layout suitable for administrative tasks.
 * **Data Visualization:** Integrates powerful charting capabilities for insightful data representation.
 * **Smooth Animations:** Enhances user experience with fluid and engaging UI transitions.
+
+<img width="2130" height="1075" alt="Screenshot 2025-07-29 230617" src="https://github.com/user-attachments/assets/7d9b94fc-2de7-498f-9a49-22059d6efbd6" />
+<img width="2093" height="1047" alt="Screenshot 2025-07-29 230815" src="https://github.com/user-attachments/assets/174ae4b0-ff57-475a-8f02-b71484da7236" />
+
